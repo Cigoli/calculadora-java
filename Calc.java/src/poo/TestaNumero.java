@@ -56,7 +56,7 @@ public class TestaNumero {
         }
 
     }
-
+    /* */
     static void imprimeCalculadora(int operacao, double resultado, double x, double y){
         HashMap<Integer, String> mapOperacao = new HashMap<>();
 
